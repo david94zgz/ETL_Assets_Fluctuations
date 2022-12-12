@@ -1,0 +1,302 @@
+[
+    {
+        "Date": "2022-12-11",
+        "Stock_Price": 50000,
+        "News": "Awful",
+        "Interest_Rate": "0.0369"
+    },
+    {
+        "Date": "2022-12-10",
+        "Stock_Price": 50917,
+        "News": "Excellent",
+        "Interest_Rate": "0.0329"
+    },
+    {
+        "Date": "2022-12-09",
+        "Stock_Price": 51454,
+        "News": "Excellent",
+        "Interest_Rate": "0.0079"
+    },
+    {
+        "Date": "2022-12-08",
+        "Stock_Price": 50246,
+        "News": "Bad",
+        "Interest_Rate": "0.0361"
+    },
+    {
+        "Date": "2022-12-07",
+        "Stock_Price": 46788,
+        "News": "Excellent",
+        "Interest_Rate": "0.0327"
+    },
+    {
+        "Date": "2022-12-06",
+        "Stock_Price": 45325,
+        "News": "Excellent",
+        "Interest_Rate": "0.0321"
+    },
+    {
+        "Date": "2022-12-05",
+        "Stock_Price": 45296,
+        "News": "Bad",
+        "Interest_Rate": "-0.0042"
+    },
+    {
+        "Date": "2022-12-04",
+        "Stock_Price": 45905,
+        "News": "Excellent",
+        "Interest_Rate": "0.0084"
+    },
+    {
+        "Date": "2022-12-03",
+        "Stock_Price": 56344,
+        "News": "Excellent",
+        "Interest_Rate": "0.0370"
+    },
+    {
+        "Date": "2022-12-02",
+        "Stock_Price": 47399,
+        "News": "Good",
+        "Interest_Rate": "0.0362"
+    },
+    {
+        "Date": "2022-12-01",
+        "Stock_Price": 51680,
+        "News": "Excellent",
+        "Interest_Rate": "0.0131"
+    },
+    {
+        "Date": "2022-11-30",
+        "Stock_Price": 48867,
+        "News": "Excellent",
+        "Interest_Rate": "0.0169"
+    },
+    {
+        "Date": "2022-11-29",
+        "Stock_Price": 59360,
+        "News": "Excellent",
+        "Interest_Rate": "0.0160"
+    },
+    {
+        "Date": "2022-11-28",
+        "Stock_Price": 60244,
+        "News": "Bad",
+        "Interest_Rate": "0.0242"
+    },
+    {
+        "Date": "2022-11-27",
+        "Stock_Price": 37022,
+        "News": "Awful",
+        "Interest_Rate": "0.0167"
+    },
+    {
+        "Date": "2022-11-26",
+        "Stock_Price": 43535,
+        "News": "Awful",
+        "Interest_Rate": "0.0415"
+    },
+    {
+        "Date": "2022-11-25",
+        "Stock_Price": 64976,
+        "News": "Awful",
+        "Interest_Rate": "-0.0023"
+    },
+    {
+        "Date": "2022-11-24",
+        "Stock_Price": 56307,
+        "News": "Good",
+        "Interest_Rate": "0.0365"
+    },
+    {
+        "Date": "2022-11-23",
+        "Stock_Price": 34232,
+        "News": "Bad",
+        "Interest_Rate": "0.0422"
+    },
+    {
+        "Date": "2022-11-22",
+        "Stock_Price": 67936,
+        "News": "Bad",
+        "Interest_Rate": "0.0423"
+    },
+    {
+        "Date": "2022-11-21",
+        "Stock_Price": 46820,
+        "News": "Awful",
+        "Interest_Rate": "-0.0022"
+    },
+    {
+        "Date": "2022-11-20",
+        "Stock_Price": 37484,
+        "News": "Good",
+        "Interest_Rate": "0.0142"
+    },
+    {
+        "Date": "2022-11-19",
+        "Stock_Price": 30640,
+        "News": "Excellent",
+        "Interest_Rate": "0.0337"
+    },
+    {
+        "Date": "2022-11-18",
+        "Stock_Price": 49103,
+        "News": "Awful",
+        "Interest_Rate": "-0.0012"
+    },
+    {
+        "Date": "2022-11-17",
+        "Stock_Price": 46304,
+        "News": "Bad",
+        "Interest_Rate": "0.0428"
+    },
+    {
+        "Date": "2022-11-16",
+        "Stock_Price": 34300,
+        "News": "Good",
+        "Interest_Rate": "0.0312"
+    },
+    {
+        "Date": "2022-11-15",
+        "Stock_Price": 48336,
+        "News": "Good",
+        "Interest_Rate": "0.0443"
+    },
+    {
+        "Date": "2022-11-14",
+        "Stock_Price": 32369,
+        "News": "Good",
+        "Interest_Rate": "0.0447"
+    },
+    {
+        "Date": "2022-11-13",
+        "Stock_Price": 43336,
+        "News": "Good",
+        "Interest_Rate": "0.0432"
+    },
+    {
+        "Date": "2022-11-12",
+        "Stock_Price": 55945,
+        "News": "Bad",
+        "Interest_Rate": "0.0440"
+    },
+    {
+        "Date": "2022-11-11",
+        "Stock_Price": 26570,
+        "News": "Bad",
+        "Interest_Rate": "0.0062"
+    },
+    {
+        "Date": "2022-11-10",
+        "Stock_Price": 67918,
+        "News": "Awful",
+        "Interest_Rate": "0.0031"
+    },
+    {
+        "Date": "2022-11-09",
+        "Stock_Price": 22416,
+        "News": "Awful",
+        "Interest_Rate": "0.0382"
+    },
+    {
+        "Date": "2022-11-08",
+        "Stock_Price": 37790,
+        "News": "Awful",
+        "Interest_Rate": "0.0154"
+    },
+    {
+        "Date": "2022-11-07",
+        "Stock_Price": 39358,
+        "News": "Excellent",
+        "Interest_Rate": "0.0434"
+    },
+    {
+        "Date": "2022-11-06",
+        "Stock_Price": 57070,
+        "News": "Awful",
+        "Interest_Rate": "0.0407"
+    },
+    {
+        "Date": "2022-11-05",
+        "Stock_Price": 25592,
+        "News": "Bad",
+        "Interest_Rate": "0.0351"
+    },
+    {
+        "Date": "2022-11-04",
+        "Stock_Price": 75900,
+        "News": "Awful",
+        "Interest_Rate": "0.0231"
+    },
+    {
+        "Date": "2022-11-03",
+        "Stock_Price": 69076,
+        "News": "Excellent",
+        "Interest_Rate": "0.0434"
+    },
+    {
+        "Date": "2022-11-02",
+        "Stock_Price": 14315,
+        "News": "Excellent",
+        "Interest_Rate": "0.0134"
+    },
+    {
+        "Date": "2022-11-01",
+        "Stock_Price": 19160,
+        "News": "Bad",
+        "Interest_Rate": "0.0448"
+    },
+    {
+        "Date": "2022-10-31",
+        "Stock_Price": 86080,
+        "News": "Awful",
+        "Interest_Rate": "0.0004"
+    },
+    {
+        "Date": "2022-10-30",
+        "Stock_Price": 86666,
+        "News": "Bad",
+        "Interest_Rate": "0.0091"
+    },
+    {
+        "Date": "2022-10-29",
+        "Stock_Price": 47291,
+        "News": "Good",
+        "Interest_Rate": "0.0005"
+    },
+    {
+        "Date": "2022-10-28",
+        "Stock_Price": 26504,
+        "News": "Good",
+        "Interest_Rate": "0.0056"
+    },
+    {
+        "Date": "2022-10-27",
+        "Stock_Price": 81230,
+        "News": "Good",
+        "Interest_Rate": "0.0188"
+    },
+    {
+        "Date": "2022-10-26",
+        "Stock_Price": 14902,
+        "News": "Bad",
+        "Interest_Rate": "0.0052"
+    },
+    {
+        "Date": "2022-10-25",
+        "Stock_Price": 63254,
+        "News": "Awful",
+        "Interest_Rate": "0.0055"
+    },
+    {
+        "Date": "2022-10-24",
+        "Stock_Price": 28976,
+        "News": "Bad",
+        "Interest_Rate": "0.0431"
+    },
+    {
+        "Date": "2022-10-23",
+        "Stock_Price": 11143,
+        "News": "Excellent",
+        "Interest_Rate": "0.0098"
+    }
+]

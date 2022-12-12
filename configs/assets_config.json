@@ -1,0 +1,5 @@
+{
+    "assets": ["Savings", "Cars", "Stocks", "Property"],
+    "assets_fieldnames": ["Id", "Client_Id", "Asset", "Market_Value", "Date_Market_Value"],
+    "assets_dataset_fn": "data/assets_dataset.csv"
+}

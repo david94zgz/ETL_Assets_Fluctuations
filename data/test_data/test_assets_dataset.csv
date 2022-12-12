@@ -1,0 +1,13 @@
+Id,Client_Id,Asset,Market_Value,Date_Market_Value
+1,2,Stocks,,2022-12-06
+2,1,Stocks,,2022-12-05
+3,1,Property,80568,2022-12-06
+4,4,Stocks,,2022-12-06
+5,2,Property,13973,2022-12-09
+6,4,Property,93379,2022-12-09
+7,4,Stocks,,2022-12-07
+8,4,Savings,39007,2022-12-09
+9,4,Cars,24746,2022-12-07
+10,1,Cars,9962,2022-12-06
+11,2,Property,74027,2022-12-08
+12,3,Savings,53537,2022-12-08

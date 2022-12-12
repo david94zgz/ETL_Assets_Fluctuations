@@ -1,0 +1,6 @@
+{
+    "names": ["Oliver", "Jack", "Harry", "Thomas", "Daniel", "Michael", "David", "George", "James", "Jorge"],
+    "surnames": ["Smith", "Jones", "Williams", "Brown", "Harris", "Johnson", "Taylor", "Murphy", "Simpson", "Adams"],
+    "clients_fieldnames": ["Id", "Name", "Surname"],
+    "clients_dataset_fn": "data/clients_dataset.csv"
+}
