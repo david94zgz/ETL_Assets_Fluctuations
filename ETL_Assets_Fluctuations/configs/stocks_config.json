@@ -1,5 +1,0 @@
-{
-    "news": ["Excellent", "Good", "Bad", "Awful"],
-    "stocks_fieldnames": ["Date", "Stock_Price", "News", "Interest_Rate"],
-    "stocks_dataset_fn": "data/stocks_dataset.json"
-}
