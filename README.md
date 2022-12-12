@@ -25,5 +25,4 @@ $SPARK_HOME/bin/spark-submit \
 ### Test the ETL
 ```bash
 python3 test_assets_value_fluctuations_job.py
-```# ETL_Assets_Fluctuations
-# ETL_Assets_Fluctuations
+```
