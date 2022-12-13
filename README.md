@@ -10,9 +10,9 @@ python3 -m data_generator.stocks_generator stocks_entries
 python3 -m data_generator.assets_generator assets_entries
 ```
 where:
-    clients_entries: is an integer representing the amount of unique clients you want to be generated
-    stocks_entries: is an integer representing the number of days, from today to the past, where we have stocks information
-    assets_entries: is an integer representing the amount of assets, randomly assigned to clients, you want to be generated
+   clients_entries: is an integer representing the amount of unique clients you want to be generated
+   stocks_entries: is an integer representing the number of days, from today to the past, where we have stocks information
+   assets_entries: is an integer representing the amount of assets, randomly assigned to clients, you want to be generated
 
 ### Run the ETL
 ```bash
