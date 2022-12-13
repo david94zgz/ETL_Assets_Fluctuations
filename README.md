@@ -23,6 +23,7 @@ $SPARK_HOME/bin/spark-submit \
 ```
 
 ### Test the ETL
+We assert two things. First, that the field list from the transformed df and expected df are identical in terms of name, data type and nullability. Second, that the data in both df is identical.
 ```bash
 python3 test_assets_value_fluctuations_job.py
 ```
